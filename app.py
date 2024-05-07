@@ -83,5 +83,5 @@ def calculate_risk_score(features):
     
     return risk_score
 
-# if __name__ == "__main__":
-#     app.run(debug=False,host='0.0.0.0')
+if __name__ == "__main__":
+    app.run(debug=False,host='0.0.0.0')
